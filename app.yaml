@@ -7,3 +7,7 @@ threadsafe: true
 handlers:
 - url: /.*
   script: iniciando.application
+
+libraries:
+- name: webapp2
+  version: lastest
