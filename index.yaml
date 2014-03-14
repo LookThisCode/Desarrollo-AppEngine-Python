@@ -1,0 +1,6 @@
+indexes:
+- kind: Consulta
+  ancestor: yes
+  properties:
+  - name: fecha
+    direction: desc
